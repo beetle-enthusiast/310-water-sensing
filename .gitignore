@@ -1,0 +1,9 @@
+# LTspice temporary and simulation output files
+*.log
+*.raw
+*.op.raw
+*.net
+
+# LTspice auto-generated backup files
+*.bak
+*.plt
